@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  height: 100vh;
+  display:flex;
+  align-items:center;
+  justify-content: left;
+  background-image: url('marvel.png'); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.game {
+  text-align: center;
+  background-color: rgba(20, 15, 47, 0.4); 
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  
+  margin-left:40px;
+  box-shadow: 0px 0px 20px 5px #ffffff;
+}
+h1{
+  border-radius: 10px;
+  border: 1px solid white;
+  margin-top:1px;
+  padding:10px;
+  font-size:30px;
+  box-shadow:0px 0px 5px 1px #8891ad;
+  
+}
+#stats,#text{
+  border-radius: 10px;
+  border: 1px solid white;
+  margin-top:10px;
+  padding:10px;
+  font-size:15px;
+  box-shadow: 0px 0px 5px 1px #8891ad;
+  font-size:large;
+}
+
+
+#controls{
+  border-radius: 10px;
+  border: 1px solid white;
+  margin-top:10px;
+  padding:10px;
+  box-shadow: 0px 0px 5px 1px #8891ad;
+}
+
+button{
+ width:170px;
+ height:35px;
+ margin:5px;
+ font-size:large;
+ background-color:rgba(212, 16, 16, 0.5);
+ color:white;
+ border-radius:5px;
+ box-shadow: 0px 0px 5px 1px #8891ad;
+
+}
+
