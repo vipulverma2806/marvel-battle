@@ -9,4 +9,4 @@ Rules:
 
 ### ScreenShot
 
-![Quiz](marvel.png)
+![Quiz](msedge_ruGwM1CoQO.jpg)
